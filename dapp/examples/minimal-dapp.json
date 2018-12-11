@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "name": "Minimal DApp Schema Example",
+    "version": "1.0.0",
+    "categories": [
+      "Other"
+    ],
+    "logo": "QmQ38p97bAPJAKZjMx5JTDCrMTbusQfJUTEWuNpV6qi4kq"
+  },
+  "smartContracts": [
+    {
+      "network": 1,
+      "address": "0x65dD7690901500FdD6B26f0a4d722e1e859Ad301"
+    }
+  ]
+}
